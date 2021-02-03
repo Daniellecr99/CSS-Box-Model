@@ -8,6 +8,7 @@
 
 h1 {
     font-family: Georgia;
+    color: slategrey;
 }
 p {
     border: solid 5px rgb(78, 73, 73);
@@ -17,6 +18,6 @@ p {
 }
 * {
     text-align: center;
-    background-image: url(/images/iStock-628661454.jpg);
     background-size: cover;
+    background-image: url(/images/iStock-628661454.jpg);
 }
